@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 320 104" fill="none">
+  <title>BillFlow AI</title>
+  <g stroke="#0B684F" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 16h27l16 16v29"/>
+    <path d="M54 16v16h16"/>
+    <path d="M27 16v19M27 61v14q0 7 7 7h27q9 0 9-9V65"/>
+    <path d="M8 45c14-13 27-13 41 0s23 12 34-1"/>
+    <path d="M8 56c14-13 27-13 41 0 8 7 16 9 23 4"/>
+    <path d="m45 61 10 10 24-28"/>
+  </g>
+  <text x="102" y="65" fill="#0B684F" font-family="Manrope, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.5">BillFlow</text>
+  <text x="262" y="65" fill="#A6D34C" font-family="Manrope, Arial, sans-serif" font-size="35" font-weight="700" letter-spacing="-1">AI</text>
+</svg>

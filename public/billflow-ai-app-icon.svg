@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <title>BillFlow AI app icon</title>
+  <rect width="128" height="128" rx="28" fill="#0B684F"/>
+  <g stroke="#B5E45C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 20h31l19 19v34M39 20v27M39 77v25q0 7 8 7h31q9 0 9-9V81"/>
+    <path d="M70 20v19h19"/>
+    <path d="M15 61c16-15 31-15 47 0s27 14 41-1M15 74c16-15 31-15 47 0 9 9 18 11 27 6"/>
+    <path d="m59 81 12 12 29-34"/>
+  </g>
+</svg>

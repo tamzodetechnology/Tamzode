@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="68" viewBox="0 0 228 68" fill="none">
+  <title>BillFlow AI compact logo</title>
+  <g stroke="#0B684F" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 10h20l12 12v21M17 10v14M17 46v11q0 5 5 5h21q7 0 7-7v-6"/>
+    <path d="M37 10v12h12"/>
+    <path d="M4 31c10-9 20-9 30 0s17 9 25-1M4 40c10-9 20-9 30 0 6 5 11 7 16 4"/>
+    <path d="m34 44 8 8 18-22"/>
+  </g>
+  <text x="71" y="45" fill="#0B684F" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-1.2">BillFlow</text>
+  <text x="189" y="45" fill="#A6D34C" font-family="Manrope, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-.8">AI</text>
+</svg>
